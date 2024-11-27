@@ -103,7 +103,7 @@ export default function WorkProcces() {
         >
           <div className="w-[320px] h-[280px] md:block hidden">
             <img
-              src="/images/cta-image.jpg"
+              src="/images/about-1.jpg"
               alt="cta-image"
               className="w-full h-full object-cover"
             />
